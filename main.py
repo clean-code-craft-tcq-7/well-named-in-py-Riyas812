@@ -1,6 +1,3 @@
-from report import print_color_code_manual
-if __name__ == "__main__":
-    print_color_code_manual()
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 MINOR_COLORS = ['Blue', 'Orange', 'Green', 'Brown', 'Slate']
 def format_color_pair(major, minor):
