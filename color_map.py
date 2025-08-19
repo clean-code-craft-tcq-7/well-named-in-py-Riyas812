@@ -1,3 +1,6 @@
+from report import print_color_code_manual
+if __name__ == "__main__":
+    print_color_code_manual()
 major_colors = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 minor_colors = ['Blue', 'Orange', 'Green', 'Brown', 'Slate']
 
